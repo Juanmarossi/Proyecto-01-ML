@@ -1,13 +1,3 @@
-<p align=center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Steam_2016_logo_black.svg/1280px-Steam_2016_logo_black.svg.png><p>
-
-# <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
-
-# <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png"  height=300>
-</p>
-
 ## **Introducción:**
 Este proyecto consiste en crear una API que utiliza un modelo de recomendación para Steam, una plataforma multinacional de videojuegos, basado en Machine Learning. El objetivo es crear un sistema de recomendación de videojuegos para usuarios. La API ofrece una interfaz intuitiva para que los usuarios puedan obtener informacion para el sistema de recomendacion y datos sobre generos o fechas puntuales. 
 Los datos utilizados incluyen información sobre juegos en la plataforma Steam y la interacción de los usuarios con estos juegos.
@@ -50,11 +40,4 @@ Realizamos un modelo de Machine Learning para generar recomendaciones juegos, ut
 
  Si es un sistema de recomendación user-item:
 - **`def recomendacion_usuario( id de usuario )`**: Ingresando el id de un usuario ('user_id'), deberíamos recibir una lista con 5 juegos recomendados para dicho usuario.
-
-Tambien son consultables en la API
-
-## **`Links`**
-
-  - [API desplegada en Render](https://steam-deploy-0v67.onrender.com/docs)
-  - [Link al video](https://drive.google.com/drive/folders/1g8ejwE6h8O6D4clfkxmZuED7tfJZ_idz?usp=sharing)
 
