@@ -1,0 +1,9 @@
+fastapi
+nltk
+numpy
+pandas
+uvicorn
+pyarrow
+scikit-learn
+typing_extensions
+scipy
